@@ -3,6 +3,9 @@ package com.loiane.cursojava.aula20;
 import java.util.Scanner;
 
 public class MatrizIrregular {
+	
+	/*Escreva um programa para guardar dados de uma pesquisa feita com uma amostra de pessoas da avenida mais movimentada da cidade onde você mora.
+A pesquisa consiste em perguntar ao cidadão a quantidade de filhos e o nome de cada filho. Guarde essas informações em uma matriz de forma que cada pessoa entrevista. Ocupe somente o espaço necessário na memória para guardar os nomes dos filhos. Imprima a quantidade de pessoas entrevistadas aqui filhos de cada entrevistado e os respectivos nomes dos filhos.*/
 
 	private static Scanner scan;
 
